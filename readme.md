@@ -8,11 +8,11 @@
 I'm a full stack developer 
 
 🏳️ Linguagens:
-PHP
-JavaScrpit
-Python
+- PHP
+- JavaScrpit
+- Python
 
 🔨 Ferramentas:
-Laravel 
-VueJs
+- Laravel 
+- VueJs
 
