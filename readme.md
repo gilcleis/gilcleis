@@ -11,8 +11,10 @@ I'm a full stack developer
 - PHP
 - JavaScrpit
 - Python
+- Java
 
 🔨 Ferramentas:
 - Laravel 
 - VueJs
+- Spring
 
